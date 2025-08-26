@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👨🏽‍🦱  Introducing Myself
 
-<!--
-**Jawsee97/Jawsee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Insert banner here
 
-Here are some ideas to get you started:
+Hello, I'm Jose. Data Analyst with expertise in data analysis, reporting, query optimization, database cleaning, and data modelling. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Querying data using SQL.
+- Generate reports and perform analysis using SQL.
+- Developing dashboards on Tableau, Excel and Google Sheets.
+- Data analysis and reporting using Google Sheets and Excel.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects]
+
+### 🛠️ Tools and Skills
+
+- Language: SQL
+- Database: MySQL, Google BigQuery, PostgreSQL
+- Visualization: Tableau, Excel and Google Sheets
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](www.linkedin.com/in/jose-aguilar97)
