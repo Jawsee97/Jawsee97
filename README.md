@@ -11,7 +11,7 @@ Hello, I'm Jose. Data Analyst with expertise in data analysis, reporting, query 
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [[#-joses-portfolio](https://github.com/Jawsee97/Project-Portfolio#-joses-portfolio)]
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Jawsee97/Project-Portfolio#-joses-portfolio)]
 
 ### 🛠️ Tools and Skills
 
