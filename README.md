@@ -1,6 +1,5 @@
 ## 👨🏽‍🦱  Introducing Myself
 
-*Insert banner here
 
 Hello, I'm Jose. Data Analyst with expertise in data analysis, reporting, query optimization, database cleaning, and data modelling. 
 
