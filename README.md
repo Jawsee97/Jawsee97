@@ -20,4 +20,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Jawse
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin]([www.linkedin.com/in/jose-aguilar97](https://www.linkedin.com/in/jose-aguilar97/))
+- [Linkedin](www.linkedin.com/in/jose-aguilar97](https://www.linkedin.com/in/jose-aguilar97/))
